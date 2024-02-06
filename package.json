@@ -1,6 +1,6 @@
 {
     "name": "custom-button-nasser2",
-    "version": "1.0.2",
+    "version": "1.1.10",
     "description": "",
     "private": false,
     "main": "dist/cjs/index.js",
